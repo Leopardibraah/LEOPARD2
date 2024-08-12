@@ -1,16 +1,16 @@
 {
-  "name": "Ethix-MD",
+  "name": "LEOPARD2",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "LEOPARD2 latest multi device whatsapp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start src/index.js --deep-monitoring --attach --name Ethix-MD",
-    "stop": "pm2 stop Ethix-MD",
-    "restart": "pm2 restart Ethix-MD"
+    "start": "pm2 start src/index.js --deep-monitoring --attach --name LEOPARD2",
+    "stop": "pm2 stop LEOPARD2",
+    "restart": "pm2 restart LEOPARD2"
   },
   "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ethix-Xsid",
+  "author": "IBRAAH",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
