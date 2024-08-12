@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ibraah2"><img title="Author" src="https://img.shields.io/badge/Ibraah2-black?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://github.com/Leopardibraah"><img title="Author" src="https://img.shields.io/badge/Ibraah2-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 <p align="center">Introducing LEOPARD2, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
@@ -27,10 +27,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ibraah2/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ibraah2?color=red&style=flat-square"></a>
-  <a href="https://github.com/Ibraah2/LEOPARD2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ibraah2/LEOPARD2?color=blue&style=flat-square"></a>
-  <a href="https://github.com/Ibraah2/LEOPARD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ibraah2/LEOPARD2?color=red&style=flat-square"></a>
-  <a href="https://github.com/Ibraah2/LEOPARD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ibraah2/LEOPARD2?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="https://github.com/Leopardibraah/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ibraah2?color=red&style=flat-square"></a>
+  <a href="https://github.com/Leopardibraah/LEOPARD2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ibraah2/LEOPARD2?color=blue&style=flat-square"></a>
+  <a href="https://github.com/Leopardibraah/LEOPARD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Leopardibraah/LEOPARD2?color=red&style=flat-square"></a>
+  <a href="https://github.com/Leopardibraah/LEOPARD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Leopardibraah/LEOPARD2?label=Watchers&color=blue&style=flat-square"></a>
   <a href="https://github.com/Ibraah2/LEOPARD2"><img title="Open Source" src="https://img.shields.io/badge/Author-IBRAAH SID X %20IBRAAH-red?v=103"></a>
   <a href="https://github.com/Ibraah2/LEOPARD2"><img title="Size" src="https://img.shields.io/github/repo-size/Ibraah2/LEOPARD2?style=flat-square&color=green"></a>
   <a href="https://github.com/Ibraah2/LEOPARD2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
@@ -38,9 +38,8 @@
 
 ---
 
-### 1. FORK THIS REPO
-
-<a href='https://github.com/Ibraah2/LEOPARD2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+### 1. FORK THIS REPO HERE
+<a href='https://github.com/Leopardibraah/LEOPARD2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID VIA PAIR CODE
 
