@@ -83,7 +83,7 @@ const facebookCommand = async (m, Matrix) => {
                 text: `*ETHIX-MD FACEBOOK POST DOWNLOADER*\n\n> *TITLE*: ${fbData.title}`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© Powered By Ethix-MD"
+                text: "© Powered By LEOPARD2 🐆"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image: { url: fbData.thumbnail } }, { upload: Matrix.waUploadToServer })),
@@ -145,7 +145,7 @@ const facebookCommand = async (m, Matrix) => {
             content = { 
               video: finalMediaBuffer, 
               mimetype: 'video/mp4', 
-              caption: '> © Powered by Ethix-MD',
+              caption: '> © Powered by LEOPARD2 🐆',
             };
             await Matrix.sendMessage(m.from, content, { quoted: m });
           } else {
