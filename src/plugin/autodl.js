@@ -22,7 +22,7 @@ const downloadAndSendMedia = async (m, Matrix) => {
 
       if (result.status) {
         const mediaData = result.data;
-        const caption = `> © Powered By Ethix-Xsid`;
+        const caption = `> © Powered By LEOPARD2 🐆`;
 
         if (mediaData.low) {
           const mediaUrl = mediaData.low;
