@@ -9,7 +9,7 @@
     "stop": "pm2 stop LEOPARD2",
     "restart": "pm2 restart LEOPARD2"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["LEOPARD2", "whatsapp-bot", "whatsapp md bot"],
   "author": "IBRAAH",
   "license": "ISC",
   "dependencies": {
